@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Life"
+            },
+            "author": "Jason Brow",
+            "title": "Kim Kardashian Wears Wedding Dress At Kanye West's 'Donda' Listening Event - HollywoodLife",
+            "description": "Kim Kardashian made a surprise appearance in a wedding gown at Kanye West's latest ‘DONDA’ event in Chicago on August 26.",
+            "url": "https://hollywoodlife.com/2021/08/27/kim-kardashian-wedding-dress-kanye-west-donda-event-photos-video/",
+            "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2021/08/kim-kardashian-kanye-west-last-name-ftr.jpg",
+            "publishedAt": "2021-08-27T05:43:34Z",
+            "content": "Kim Kardashian made a surprise appearance in a wedding gown at Kanye West’s latest ‘DONDA’ event in Chicago on August 26.\r\nKim Kardashian did much more than just support her estranged husband Kanye W… [+5079 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "Kamala Harris stops at Pearl Harbor on way back from Asia -- but avoids press questions - Fox News",
+            "description": "Kamala Harris returned to the U.S. on Thursday, landing in Hawaii after her trip to Singapore and Vietnam. But the vice president ignored reporters’ questions – whether about Afghanistan or other topics – as she got off Air Force Two for a stop at Joint Base …",
+            "url": "https://www.foxnews.com/politics/kamala-harris-stops-at-pearl-harbor-on-way-back-from-asia-but-avoids-press-questions",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/AP21239097224960.jpg",
+            "publishedAt": "2021-08-27T05:33:13Z",
+            "content": "Kamala Harris returned to the U.S. on Thursday, landing in Hawaii after her trip to Singapore and Vietnam.\r\nBut the vice president ignored reporters questions whether about Afghanistan or other topic… [+3256 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Benjamin Swasey",
+            "title": "Republican-Led Texas House Passes New Voting Restrictions - NPR",
+            "description": "The vote on the Republican-led election legislation follows unprecedented efforts by Democrats to block it.",
+            "url": "https://www.npr.org/2021/08/27/1031154177/after-a-bitter-fight-the-texas-house-passes-a-restrictive-voting-bill",
+            "urlToImage": "https://media.npr.org/assets/img/2021/08/27/ap_21238809232161_wide-c8e75d71da4dbfc1d6b993c0704f5db4959ad80a.jpg?s=1400",
+            "publishedAt": "2021-08-27T05:06:17Z",
+            "content": "Texas Republican House Speaker Dade Phelan strikes his gavel as the House votes on an amendment to election bill SB1 on Thursday. The legislation easily passed in the GOP-led chamber.\r\nEric Gay/AP\r\nM… [+3198 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Samuel Chamberlain",
+            "title": "Trump says Kabul airport explosion wouldn't have happened if he was president - New York Post ",
+            "description": "Donald Trump hammered Biden over the suicide bombings outside Kabul’s airport, claiming that “it would not have happened if I was your president.”",
+            "url": "https://nypost.com/2021/08/27/trump-says-kabul-airport-explosion-wouldnt-have-happened-if-he-was-president/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/08/trump-afghanistan-bomging-index.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-08-27T04:32:00Z",
+            "content": "Former President Donald Trump hammered President Joe Biden over the deadly suicide bombings outside Kabul’s international airport Thursday, claiming in a videotaped statement that “it would not have … [+4241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Kenneth Garger",
+            "title": "Kiss cancels show after Paul Stanley tests positive for COVID - New York Post ",
+            "description": "Kiss cancelled their Thursday night show in Pennsylvania after frontman Paul Stanley tested positive for COVID-19.",
+            "url": "https://nypost.com/2021/08/26/kiss-cancels-show-after-paul-stanley-tests-positive-for-covid/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/08/kiss-cancels-concert-covid-index.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-08-27T03:54:00Z",
+            "content": "Kiss cancelled their Thursday night show in Pennsylvania after frontman Paul Stanley tested positive for COVID-19. \r\nThe legendary rock band has been traveling across the country for their “End of th… [+817 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Thursday night tropical storm Ida: Hurricane Watch for Louisiana - WWLTV",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bTJSSHRSU1c5aHfSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-08-27T03:29:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Apple chief executive Tim Cook gets $750m payout - BBC News",
+            "description": "The award of more than five million Apple shares comes as Mr Cook marks a decade as the firm's boss.",
+            "url": "https://www.bbc.com/news/business-58352098",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A1B7/production/_120299314_tv068626477.jpg",
+            "publishedAt": "2021-08-27T03:16:23Z",
+            "content": "image captionMr Cook's payout was part of a deal he struck when he took over from co-founder Steve Jobs\r\nApple chief executive Tim Cook has received more than five million shares in the technology gi… [+1868 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin Caitlin",
+            "title": "COVID-19 cases in South Dakota increase more than 450% since start of Sturgis Motorcycle Rally - CBS News",
+            "description": "Hundreds of thousands of bikers descended on the small town. Vaccines were not required.",
+            "url": "https://www.cbsnews.com/news/sturgis-rally-2021-south-dakota-covid-19-450-percent-spike/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/08/05/1f5ff669-0f55-4ff4-89f1-d7312b49423a/thumbnail/1200x630/893e8c0ac9eb114a0e0c0bf8e421ae97/gettyimages-2377771.jpg",
+            "publishedAt": "2021-08-27T03:08:47Z",
+            "content": "South Dakota has seen a sharp increase in daily COVID-19 cases following the Sturgis Motorcycle Rally in Meade County this month. Hundreds of thousands of bikers descended upon the area August 6-15, … [+2781 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Melissa Melissa",
+            "title": "Supreme Court blocks Biden administration's latest ban on evictions - CBS News",
+            "description": "The court's three liberal justices dissented.",
+            "url": "https://www.cbsnews.com/news/supreme-court-eviction-moratorium/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/02/4ec67b23-d332-48cf-8065-15d53f60fb2e/thumbnail/1200x630/6650c58f1a795471d4498626f7efe1e0/gettyimages-1233752605.jpg",
+            "publishedAt": "2021-08-27T02:52:00Z",
+            "content": "Washington — The Supreme Court on Thursday lifted the Biden administration's newest federal ban on evictions, granting a bid from a group of landlords to block the pandemic-related protections for re… [+5740 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Devon M. Sayers and Rebekah Riess, CNN",
+            "title": "Arkansas doctor under investigation for prescribing anti-parasitic drug thousands of times for Covid-19 despite FDA warning - CNN",
+            "description": "The Arkansas Medical Board is investigating after a doctor said he prescribed an anti-parasitic drug \"thousands\" of times for treatment of Covid-19, including to inmates in an Arkansas jail.",
+            "url": "https://www.cnn.com/2021/08/26/us/covid-ivermectin-arkansas-doctor/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210826221735-ivermectin-drug-file-super-tease.jpg",
+            "publishedAt": "2021-08-27T02:42:00Z",
+            "content": "(CNN)The Arkansas Medical Board is investigating after a doctor said he prescribed an anti-parasitic drug \"thousands\" of times for treatment of Covid-19, including to inmates in an Arkansas jail.\r\nTh… [+3897 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "NASA's Ingenuity Helicopter Sees Potential Martian \"Road\" Ahead - SciTechDaily",
+            "description": "Perseverance scientist impressed with aerial images of location considered for rover exploration. Ask any space explorer, and they’ll have a favorite photograph or two from their mission. For Ken Farley, the project scientist for NASA’s Perseverance rover, on…",
+            "url": "https://scitechdaily.com/nasas-ingenuity-helicopter-sees-potential-martian-road-ahead/",
+            "urlToImage": "https://scitechdaily.com/images/Flight-12-View-of-South-Seitah-scaled.jpg",
+            "publishedAt": "2021-08-27T02:23:34Z",
+            "content": "ByJet Propulsion LaboratoryAugust 26, 2021\r\nThis image of the South Séítah region of Jezero Crater was captured by NASA’s Ingenuity Mars Helicopter during its 12th flight at Mars, on August 16, 2021.… [+4100 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Joseph Wulfsohn",
+            "title": "Tara Reade rips Tina Tchen for offering no apology amid Time's Up exit: They caused pain and harm to survivors - Fox News",
+            "description": "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, blasted outgoing Time's Up CEO Tina Tchen for not offering an apology amid damning revelations about the women's organization.",
+            "url": "https://www.foxnews.com/media/tara-reade-tina-tchen-times-up",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Tara-Reade-Tina-Tchen-.jpg",
+            "publishedAt": "2021-08-27T02:18:32Z",
+            "content": "Tara Reade\r\n, the former Senate staffer who alleged last year that Joe Biden\r\n sexually assaulted her in 1993, blasted outgoing Time's Up CEO Tina Tchen for not offering an apology amid damning revel… [+4777 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Biden Advisers Weigh Powell as Fed Chair, Brainard as Vice Chair - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=4844c34f-06f2-11ec-9960-664548637770&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wOC0yNy9iaWRlbi1hZHZpc2Vycy13ZWlnaC1wb3dlbGwtYXMtZmVkLWNoYWlyLWJyYWluYXJkLWFzLXZpY2UtY2hhaXI=",
+            "urlToImage": null,
+            "publishedAt": "2021-08-27T01:25:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.https"
+            },
+            "author": "New York Post",
+            "title": "JoJo Siwa to compete as part of first same-sex pairing on 'Dancing With the Stars' - Fox News",
+            "description": "Nickelodeon star JoJo Siwa said that she'll be dancing with a woman during the upcoming 30th season of \"Dancing with the Stars.\"",
+            "url": "https://www.https://pagesix.com/2021/08/26/jojo-siwa-will-have-a-same-sex-partner-on-dancing-with-the-stars/",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/JoJo-Siwa.jpg",
+            "publishedAt": "2021-08-27T01:03:50Z",
+            "content": "Nickelodeon star JoJo Siwa who came out as part of the LGBTQ community in January will make history as the first \"Dancing With the Stars\" contestant to be matched with a same-sex partner, ABC announc… [+1586 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Apple is settling a $100 million suit with a major modification to the anti-steering rule - The Verge",
+            "description": "As part of a proposed agreement to resolve a class action lawsuit from US app developers, Apple says iOS developers will finally be able to contact their customers, with permission, using information collected inside their apps.",
+            "url": "https://www.theverge.com/2021/8/26/22643807/apple-developer-class-action-lawsuit-collect-information-ios-apps-anti-steering",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/pqej1Q2-xXs_LkrnYMSqfNdRlHE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21783862/acastro_20200818_1777_epicApple_0003.0.jpg",
+            "publishedAt": "2021-08-27T00:36:21Z",
+            "content": "Its an important change from Apple\r\nIllustration by Alex Castro / The Verge\r\nAs part of a proposed agreement to resolve a class action lawsuit from US app developers which includes a $100 million pay… [+3955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Magazine"
+            },
+            "author": null,
+            "title": "Having SARS-CoV-2 once confers much greater immunity than a vaccine—but no infection parties, please - Science Magazine",
+            "description": "Israelis who had an infection were more protected against the Delta coronavirus variant than those who had an already highly effective COVID-19 vaccine",
+            "url": "https://www.sciencemag.org/news/2021/08/having-sars-cov-2-once-confers-much-greater-immunity-vaccine-no-infection-parties",
+            "urlToImage": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/_20210826_on_Naturalimmunityvsvaccination_1280x720.jpg?itok=8HZelRAs",
+            "publishedAt": "2021-08-27T00:02:00Z",
+            "content": "By Meredith WadmanAug. 26, 2021 , 8:02 PM\r\nThe natural immune protection that develops after a SARS-COV-2 infection offers considerably more of a shield against the Delta variant of the pandemic coro… [+7774 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MMA Mania"
+            },
+            "author": "Shakiel Mahjouri",
+            "title": "Stipe Miocic to be Dana White for Jake Paul vs. Tyron Woodley weigh-in - MMA Mania",
+            "description": "Jake Paul and Tyron Woodley should be on their best behavior in the presence of former UFC Heavyweight champion Stipe Miocic.",
+            "url": "https://www.mmamania.com/2021/8/26/22643291/stipe-miocic-will-play-dana-white-role-for-jake-paul-vs-tyron-woodley-weigh-in",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/mPhuzmlQufg5m_ZPgIFoXLP1DuM=/0x48:4083x2186/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21857863/1228063613.jpg.jpg",
+            "publishedAt": "2021-08-27T00:00:00Z",
+            "content": "Jake Paul and Tyron Woodley should be on their best behavior in the presence of former UFC Heavyweight champion Stipe Miocic."
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Andrew Miller",
+            "title": "Psaki dismisses calls for Biden to resign: 'Not a day for politics' - Fox News",
+            "description": "White House Press Secretary Jen Psaki dismissed calls for President Joe Biden to resign in the wake of a terrorist attack in Kabul, Afghanistan that killed 13 U.S. service members, saying that there’s no room for politics in the discussion of the tragedy.",
+            "url": "https://www.foxnews.com/politics/psaki-dismisses-calls-for-biden-to-resign-not-a-day-for-politics",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/AP21238801056435.jpg",
+            "publishedAt": "2021-08-26T23:46:39Z",
+            "content": "White House Press Secretary Jen Psaki dismissed calls for President Joe Biden to resign in the wake of a terrorist attack in Kabul, Afghanistan that killed 13 U.S. service members, saying that theres… [+2040 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pro Football Network"
+            },
+            "author": null,
+            "title": "As Tennessee Titans deal with COVID-19 surge, NFL considers changes to protocols but not stadium capacity - Pro Football Network",
+            "description": "As the Tennessee Titans battle a COVID-19 outbreak in the organization, the NFL is considering some changes to their current protocols.",
+            "url": "https://www.profootballnetwork.com/as-tennessee-titans-deal-with-covid-19-surge-nfl-considers-changes-to-protocols-but-not-stadium-capacity/",
+            "urlToImage": "https://www.profootballnetwork.com/wp-content/uploads/2021/08/NFLs-COVID-19-Spike.png",
+            "publishedAt": "2021-08-26T23:35:47Z",
+            "content": "Masks inside NFL team facilities could return, and testing frequency could increase, but the NFL still plans on playing in front of full stadiums this fall despite a surge in COVID-19 cases nationall… [+3657 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Culp",
+            "title": "Wall Street closes lower, ending rally on Afghanistan, Fed concerns - Reuters",
+            "description": "Wall Street lost ground on Thursday, ending a streak of all-time closing highs on concerns over developments in Afghanistan, while fears of a potential shift in U.S. Federal Reserve policy prompted a broad but shallow sell-off the day before the Jackson Hole …",
+            "url": "https://www.reuters.com/business/wall-street-closes-lower-ending-rally-afghanistan-fed-concerns-2021-08-26/",
+            "urlToImage": "https://www.reuters.com/resizer/X7ib10BWuErjIfLPUVJqOcXOZxQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OZTRBH2DD5LGZCWXQ5IMDO7BKI.jpg",
+            "publishedAt": "2021-08-26T23:22:00Z",
+            "content": "NEW YORK, Aug 26 (Reuters) - Wall Street lost ground on Thursday, ending a streak of all-time closing highs on concerns over developments in Afghanistan, while fears of a potential shift in U.S. Fede… [+3437 chars]"
+        }
+    ]
+}
